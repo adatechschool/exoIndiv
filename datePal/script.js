@@ -1,4 +1,4 @@
-let jj ;
+let jj = 2;
 let mm ;
 let aaaa ;
 let maxJours ;
